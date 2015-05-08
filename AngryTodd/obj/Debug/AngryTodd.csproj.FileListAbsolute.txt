@@ -1,0 +1,13 @@
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\Interop.IWorksDriver.dll
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\AngryTodd.csproj.ResolveComReference.cache
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\AngryTodd.AboutBox.resources
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\AngryTodd.DiagnosticForm.resources
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\AngryTodd.Properties.Resources.resources
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\GenerateResource.read.1.tlog
+c:\users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\GenerateResource.write.1.tlog
+C:\Program Files (x86)\Agilent Technologies\VWorks\Plugins\AngryTodd.dll
+C:\Program Files (x86)\Agilent Technologies\VWorks\Plugins\AngryTodd.pdb
+C:\Program Files (x86)\Agilent Technologies\VWorks\Plugins\AngryTodd.tlb
+C:\Users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\AngryTodd.dll
+C:\Users\pwerner\documents\visual studio 2010\Projects\AngryTodd\AngryTodd\obj\Debug\AngryTodd.pdb
